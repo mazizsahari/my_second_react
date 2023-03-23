@@ -17,21 +17,21 @@ const Footer = () => {
             </div>
             <div className='md:col-span-2 flex justify-between'>
                 <div>
-                    <p className='text-2xl text-sky-400 font-bold'>Solutions</p>
+                    <p className='text-2xl text-teal-400 font-bold'>Solutions</p>
                     <p className='py-2'>Analytics</p>
                     <p className='py-2'>Marketing</p>
                     <p className='py-2'>Commerce</p>
                     <p className='py-2'>Insights</p>
                 </div>
                 <div>
-                    <p className='text-2xl text-sky-400 font-bold'>Support</p>
+                    <p className='text-2xl text-teal-400 font-bold'>Support</p>
                     <p className='py-2'>Analytics</p>
                     <p className='py-2'>Marketing</p>
                     <p className='py-2'>Commerce</p>
                     <p className='py-2'>Insights</p>
                 </div>
                 <div>
-                    <p className='text-2xl text-sky-400 font-bold'>Company</p>
+                    <p className='text-2xl text-teal-400 font-bold'>Company</p>
                     <p className='py-2'>Analytics</p>
                     <p className='py-2'>Marketing</p>
                     <p className='py-2'>Commerce</p>
